@@ -1,4 +1,4 @@
-setup_scenario = {
+﻿setup_scenario = {
 	name = "large"
 	priority = 3					#priority decides in which order the scenarios are listed
 	num_stars = 800
