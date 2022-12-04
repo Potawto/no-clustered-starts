@@ -1,4 +1,4 @@
-﻿setup_scenario = {
+setup_scenario = {
 	name = "small"
 	priority = 1					#priority decides in which order the scenarios are listed
 	num_stars = 400
