@@ -3,6 +3,6 @@ tags={
 	"Gameplay"
 }
 name="No Clustered Starts"
-supported_version="3.9.*"
+supported_version="3.10.*"
 path="C:/Users/YOURUSERNAME/Documents/Paradox Interactive/Stellaris/mod/noclusteredstarts"
 remote_file_id="687226658"
