@@ -21,7 +21,7 @@ setup_scenario = {
 		value = 1
 	}
 	
-	cluster_radius = 240
+	cluster_radius = 260
 	cluster_distance_from_core = 0
 	
 	max_hyperlane_distance = 50

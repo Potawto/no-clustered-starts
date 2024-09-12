@@ -21,7 +21,7 @@ setup_scenario = {
 		method = constant
 		value = 1
 	}
-	cluster_radius = 320
+	cluster_radius = 360
 	cluster_distance_from_core = 0
 	
 		
