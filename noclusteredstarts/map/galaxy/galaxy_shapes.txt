@@ -6,7 +6,7 @@ elliptical = {
 
 	countries = {
 		ideal_sq_dist_between = 202500	# 450*450 Ideal square distance between countries [NCS]
-		min_sq_dist_between = 10000		# 100*100 Min square distance between countries [NCS]
+		min_sq_dist_between = 202500		# 200*200 Min square distance between countries [NCS] (was 100*100, testing new value)
 	}
 
 	fallen_empires = {
